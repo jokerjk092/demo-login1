@@ -39,7 +39,7 @@ function Login() {
               required
             />
           </div>
-          <Link className='link' to='/signup'>New User?</Link>
+          <Link className='link' to='/demo-login1/signup'>New User?</Link>
           <button type="submit">Login</button>
         </form>
       </div>
